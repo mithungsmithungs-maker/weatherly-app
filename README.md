@@ -62,5 +62,5 @@ https://api.openweathermap.org/data/2.5/weather
 MIT License
 
 ## 💙 Author
-Developed by **Mithu (Mithun)**  
+Developed by **Mithun Kumar G S**  
 If you like this project, please ⭐ the repo!
